@@ -22,4 +22,4 @@ The colab file is shared through this link:
 https://colab.research.google.com/drive/1prk_A5iEQFfS8blMkSGER5zsjuAdYRXZ
 
 or...
-You can import this repo or a fork and import it through colab, upload dogGeneratorLocal.ipynb to your local instance.
+You can use this repo or a fork and import it through colab, or upload dogGeneratorLocal.ipynb to your colab instance.
