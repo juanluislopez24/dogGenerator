@@ -5,9 +5,8 @@ This is an approach to generate dog images with a GAN based on DCGAN using Tenso
 The file dogGeneratorLocal.ipynb is made to run the program locally, just install the dependencies with conda:
 
 ```
-conda create -y --name dogGenerator python==3.7
-conda install -f -y -q --name dogGenerator -c conda-forge --file requirements.txt
-conda activate dogGenerator
+conda create -n dog python==3.7 --yes
+pip install -r requirements.txt
 ````
 
 
