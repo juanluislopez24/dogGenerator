@@ -1,0 +1,6 @@
+image_at_epoch_*
+generative-dog-images/
+training_checkpoints/
+modelsCheckpoints/
+__pychache__/
+.ipynb_checkpoints/
